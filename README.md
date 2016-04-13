@@ -26,8 +26,8 @@ This step results in the creation of two files "test_features.csv" and "train_fe
 
 Step 3:
 We then apply the following three classifiers on training set to build the model and predict results :
-  -Logistic Regression
-  -RandomForestClassifier
-  -BaggingClassifier
+  - Logistic Regression
+  - RandomForestClassifier
+  - BaggingClassifier
 The resulting ensemble gave accuracy of 93.064%
 
