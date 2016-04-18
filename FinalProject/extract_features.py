@@ -1,11 +1,5 @@
 # extract_features.py
 #
-# Go through bidder data in the Kaggle Facebook recruiting competition IV and extract
-# key information for classifying bidders as bots or humans.
-#
-# Date: 6/2/2015
-# @author: Mike Gloudemans
-#
 
 import math
 import operator
